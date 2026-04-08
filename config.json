@@ -1,0 +1,14 @@
+{
+	"name": "Swindon",
+	"code": "SWI",
+	"description": "Prove to someone that even Swindon can have a decent metro system. Maybe.",
+	"population": 330000
+	"initialViewState":{
+		"zoom": 13,
+		"latitude": 51.6,
+		"longitude": 1.8,
+		"bearing": 0
+	},
+	"creator": "Windon",
+	"version": "2.1.0"
+}
